@@ -1,19 +1,6 @@
 public class VariablesAndOperators {
     public static void main(String[] args) {
-//        int myInt = 5555;
-//        short myShort = 10;
-//        long myLong = 55555555;
-//
-//        double myDouble = 22.22;
-//        float myFloat = 223.22f;
-//
-//        char b = 'g';
-//        boolean c = true;
-//
-//        byte e = 100; //-128-127
-//
-//        System.out.println(myFloat);
-////
+
         int a = 10;
         int b = 20;
         int c = 25;
